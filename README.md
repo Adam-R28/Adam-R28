@@ -11,7 +11,7 @@ Saat ini saya sedang mengikuti praktikum Mobile Programming.
 
 📚 ## Daftar Praktikum
 
-| n | Topik | Modul | Laporan |
+| No | Topik | Modul | Laporan |
 | :--- | :--- | :--- | :--- |
-| | Pengenalan Mobile Programming & Setup | Modul 01 | [Laporan](https://github.com) |
+| 1 | Pengenalan Mobile Programming & Setup | Modul 01 | [Laporan](https://github.com) |
 
